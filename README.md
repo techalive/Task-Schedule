@@ -43,10 +43,10 @@ Show examples of usage:
 
 ## Features
 Plan of application intend:
--- tabbed divides of each day week
--- matrix of plan alignment
--- uses of maximal strenght of Scanner class in pane options
--- clever Task Schedule text formatted
+* tabbed divides of each day week
+* matrix of plan alignment
+* uses of maximal strenght of Scanner class in pane options
+* clever Task Schedule text formatted
 
 ## Status
 Project is: _finished_
